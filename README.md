@@ -97,16 +97,6 @@ python main.py
 
 ---
 
-## Screenshots
-
-- Home Screen
-- Add Student
-- View Students
-- Search Student
-- Update Student
-- Delete Student
-
----
 
 ## Future Enhancements
 
